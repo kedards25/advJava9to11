@@ -1,11 +1,8 @@
 INDEX VERSION 1.4+D:\Professional\NIIT\Online Sessions\Adv Java 9-11\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2055351946.index
-2466252518.index
-3505693088.index
-3271973135.index
-270920053.index
-3270340847.index
 2418008350.index
-523847513.index
+1702565240.index
+3505693088.index
 3562616781.index
-3310060907.index
+333408941.index
+3515023412.index
+2055351946.index
