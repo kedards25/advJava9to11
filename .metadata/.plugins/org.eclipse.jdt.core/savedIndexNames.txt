@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\Professional\NIIT\Online Sessions\Adv Java 9-11\.metadata\.plugins\org.eclipse.jdt.core
+2418008350.index
+3505693088.index
+2055351946.index
+3562616781.index

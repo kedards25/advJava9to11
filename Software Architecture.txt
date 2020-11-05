@@ -1,0 +1,62 @@
+Any software can be divided into 3 main parts
+	Design=>Presentation Logic->PL
+	Logic/Code=>Bussiness Logic->BL
+	Db	=>Data Layer->DL
+
+Single/one Tier Architecture
+	PL	BL	DL 
+	on one machine/computer
+		Pro's
+			Ease of access
+			Cost Efficient
+			Quick Response ->no need of network
+			Less Maintainance
+
+		Con's
+			Less Secure
+			Load on single machine leads to poor performance
+			No backup facility in case of system crash
+			Single user oriented
+Two Tier Architecture
+
+	PL+BL		DL
+	client		Server
+	Fat Client 	Thin Server
+
+	PL		BL+DL
+	Thin Client	Fat Server
+
+		Pro's
+			Less load
+			More Secure
+			backup facility
+			multi-user oriented
+		
+		Con's
+			network dependency
+			more maintainance cost
+			lag in response
+			in case of update/upgrade in logic
+				each client has to be visited separately
+
+Three Tier Architecture
+	PL	BL	DL
+		Pro's
+			Load equally divided on machines
+					
+		Con's
+			even small request needs to be handled on server side
+			causing reloading of web page
+N-Tier Architecture
+	PL		BL		DL
+	 	AJAX		disc db
+	AJAX=>helps in partial page reloading
+
+
+
+
+
+
+
+
+
